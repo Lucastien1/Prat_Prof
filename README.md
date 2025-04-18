@@ -17,3 +17,4 @@ Notas
 GitHub Pages mostra apenas o front-end. O back-end está no vídeo e no código (server.js).
 
 
+[cadastro_facil.zip](https://github.com/user-attachments/files/19814566/cadastro_facil.zip)
